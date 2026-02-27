@@ -2,3 +2,4 @@ This is a project on line following robot
 It is a project done by 200 level student in the mechatronics department 
 From ICT Group 18
 This project was made using tinkercad and Proteus 
+With the use of Arduino IDE, microcontrollers could be programmed to make automation possible. 
